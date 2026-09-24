@@ -336,7 +336,7 @@ Technical Challenges
 | 3 | Lokeshwar K | B.E. CSE | III Year |
 | 4 | Kishore Kumar G | B.E. CSE | III Year |
 | 5 | Priyanka T | B.E. CSE | III Year |
-| 6 | Priyadharshi S | B.E. CSE | III Year |
+| 6 | Priyadharshini S | B.E. CSE | III Year |
 
 ---
 
